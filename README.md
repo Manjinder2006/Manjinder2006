@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi, I'm Manjinder
 
-<!--
-**Manjinder2006/Manjinder2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+Currently exploring Cybersecurity, Networking, Ethical Hacking, and Digital Forensics through hands-on practice, programming, and real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Python
+* Linux
+* Networking Fundamentals
+* Basic Ethical Hacking Concepts
+* NumPy
+* Pandas (Learning)
+
+## Current Projects
+
+* Cybersecurity Learning Journey
+* Home Lab Setup
+* CTF Practice Challenges
+
+## Learning Roadmap
+
+* Network Security
+* Ethical Hacking
+* Web Application Security
+* Digital Forensics
+* Malware Analysis
+* Cloud Security
+
+## Goals
+
+* Build multiple hands-on cybersecurity projects
+* Master networking and security fundamentals
+* Participate in CTF competitions
+* Contribute to open-source security tools
+* Pursue higher studies and research in cybersecurity
+
+## Connect
+
+Open to connecting with fellow learners, developers, and cybersecurity enthusiasts.
